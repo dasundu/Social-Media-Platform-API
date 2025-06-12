@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Social Media Posts</title>
+</head>
+<body>
+    <h1>All Posts</h1>
+    <% posts.forEach(post => { %>
+        <div style="border: 1px solid #ccc; margin: 10px; padding: 10px;">
+            <h3><%= post.title %></h3>
+            <p><%= post.content %></p>
+            <small>By: <%= post.author %> | <%= post.createdAt %></small>
+        </div>
+    <% }) %>
+</body>
+</html>
