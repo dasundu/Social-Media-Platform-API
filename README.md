@@ -256,11 +256,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+dasunathauda99@gmail.com
 
 ## Acknowledgments
 
 - Express.js documentation
 - JWT.io for token handling
 - Node.js community
-- Lab Sheet 5 requirements
